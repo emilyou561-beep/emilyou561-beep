@@ -51,30 +51,39 @@ Most of what I've done so far is product and marketing analytics: reading A/B te
       <p>Do companies with business ties to Trump trade differently when he wins or loses? I ran an event study on 63 linked firms and 37 matched controls across 5, 10, and 20-day windows. In 2024 the 10-day abnormal return gap was 4.25 points (p = 0.021).</p>
     </td>
     <td width="50%" valign="top">
-      <h4>Creator Match Intelligence</h4>
-      <sub>Personal project · Python, SQL, SQLite, Streamlit</sub>
-      <p>Ranks creators and returns a top 5, with the reasons behind each score. Built on a 7-table SQLite model with a 5-part score, eligibility filters, and risk flags. Comes with 16 tests and a Streamlit app.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>Background-check timing A/B test</h4>
       <sub>Internship · Woooly.ai</sub>
       <p>Tested whether starting background checks earlier helps applicants finish. Across 14,982 applicants, completion went from 26.7% to 42.7%, time to finish dropped from 10.2 to 7.1 days, and cost per completion fell from $96 to $70. Job-site traffic gained the most.</p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Creator Match Intelligence</h4>
+      <sub>Personal project · Python, SQL, SQLite, Streamlit</sub>
+      <p>Ranks creators and returns a top 5, with the reasons behind each score. Built on a 7-table SQLite model with a 5-part score, eligibility filters, and risk flags. Comes with 16 tests and a Streamlit app.</p>
+      <p><a href="https://github.com/emilyou561-beep/creator-match-intelligence"><b>View repo →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Cookie Cats A/B test</h4>
+      <sub>Practice project · Python, SQL, statsmodels</sub>
+      <p>Public A/B test on 90k mobile game players. Found a small but significant sample-ratio mismatch that's easy to miss, checked that it doesn't change the answer, then showed the later gate cuts day-7 retention by 0.8 points (p = 0.002).</p>
+      <p><a href="https://github.com/emilyou561-beep/cookie-cats-ab-test"><b>View repo →</b></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>Creator data cleanup + Power BI dashboard</h4>
       <sub>Internship · Wefluens · R, Python, Power BI</sub>
       <p>Merged scattered research into one clean dataset of 6,000+ creator and partner profiles, checked against 9 QA rules. Then built a live dashboard with field-update automations and a review step, used by 40 people on the team.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>Philadelphia bike share, H1 2026</h4>
       <sub>Tableau</sub>
       <p>Trips were up 21.5% and e-bike minutes up 37.2%, but some of that was just new stations. I split seasonal growth from network expansion and suggested changes to e-bike capacity and rebalancing.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4>Michigan Dining sustainability tool</h4>
       <sub>In progress · UMich · Python</sub>
       <p>A five-week prototype for Michigan Dining that cleans supplier data, scores sourcing practices through a questionnaire, and gives recommendations tied back to the source evidence.</p>
