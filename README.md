@@ -38,14 +38,3 @@ Most of what I've done so far is product and marketing analytics: reading A/B te
     </td>
   </tr>
 </table>
-
----
-
-### GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=emilyou561-beep&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyou561-beep&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
