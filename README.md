@@ -13,7 +13,7 @@
 
 ### Hi, I'm Emily 👋
 
-I'm doing my M.S. in Information (Data Analytics) at the University of Michigan. I came into data from international relations. My master's thesis at UChicago ended up being a 100-firm event study in R, and that's pretty much when I decided I liked working with data more than writing about policy.
+I'm doing my M.S. in Information (Data Analytics) at the University of Michigan. I came into data from international relations. My master's thesis at UChicago ended up being a 63-firm event study in R, and that's pretty much when I decided I liked working with data more than writing about policy.
 
 Most of what I've done so far is product and marketing analytics: reading A/B tests, breaking funnels down by channel, and turning scattered spreadsheets into something a team can actually use.
 
@@ -48,7 +48,8 @@ Most of what I've done so far is product and marketing analytics: reading A/B te
     <td width="50%" valign="top">
       <h4>Trump-linked firms around U.S. elections</h4>
       <sub>Master's thesis · UChicago · R, CRSP, Compustat</sub>
-      <p>Do companies with business ties to Trump trade differently when he wins or loses? I ran an event study on 63 linked firms and 37 matched controls across 5, 10, and 20-day windows. In 2024 the 10-day abnormal return gap was 4.25 points (p = 0.021).</p>
+      <p>Do companies with business ties to Trump trade differently when he wins or loses? I ran an event study on 27 linked firms and 36 matched controls across 5, 10, and 20-day windows. In 2024 the 10-day abnormal return gap was 4.25 points (p = 0.021).</p>
+      <p><a href="https://github.com/emilyou561-beep/trump-linked-firms-event-study"><b>View repo →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>Background-check timing A/B test</h4>
@@ -78,8 +79,9 @@ Most of what I've done so far is product and marketing analytics: reading A/B te
     </td>
     <td width="50%" valign="top">
       <h4>Philadelphia bike share, H1 2026</h4>
-      <sub>Tableau</sub>
+      <sub>Personal project · Tableau, pandas</sub>
       <p>Trips were up 21.5% and e-bike minutes up 37.2%, but some of that was just new stations. I split seasonal growth from network expansion and suggested changes to e-bike capacity and rebalancing.</p>
+      <p><a href="https://github.com/emilyou561-beep/indego-bike-share-analysis"><b>View repo →</b></a> · <a href="https://public.tableau.com/app/profile/emily.ou2684/viz/IndegoTablet2_17905244322180/Demandisoutpacingnetworkexpansionledbye-bikes"><b>Dashboard →</b></a></p>
     </td>
   </tr>
   <tr>
