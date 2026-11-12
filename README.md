@@ -86,9 +86,10 @@ Most of what I've done so far is product and marketing analytics: reading A/B te
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>Michigan Dining sustainability tool</h4>
-      <sub>In progress · UMich · Python</sub>
-      <p>A five-week prototype for Michigan Dining that cleans supplier data, scores sourcing practices through a questionnaire, and gives recommendations tied back to the source evidence.</p>
+      <h4>Michigan Dining Sustainability Navigator</h4>
+      <sub>UMich AI Clinic · Product, data, and technical coordination · React, FastAPI, Python</sub>
+      <p>A sustainable-sourcing assessment tool that turns questionnaire responses into transparent scores, prioritized actions, supplier-data review prompts, cited resources, and a downloadable report.</p>
+      <p><a href="https://github.com/emilyou561-beep/michigan-dining-sustainability-showcase"><b>View case study →</b></a></p>
     </td>
   </tr>
 </table>
