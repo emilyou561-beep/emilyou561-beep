@@ -65,10 +65,10 @@ Most of what I've done so far is product and marketing analytics: reading A/B te
       <p><a href="https://github.com/emilyou561-beep/creator-match-intelligence"><b>View repo →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>Cookie Cats A/B test</h4>
-      <sub>Practice project · Python, SQL, statsmodels</sub>
-      <p>Public A/B test on 90k mobile game players. Found a small but significant sample-ratio mismatch that's easy to miss, checked that it doesn't change the answer, then showed the later gate cuts day-7 retention by 0.8 points (p = 0.002).</p>
-      <p><a href="https://github.com/emilyou561-beep/cookie-cats-ab-test"><b>View repo →</b></a></p>
+      <h4>Michigan Dining Sustainability Navigator</h4>
+      <sub>UMich AI Clinic · Product, data, and technical coordination · React, FastAPI, Python</sub>
+      <p>A sustainable-sourcing assessment tool that turns questionnaire responses into transparent scores, prioritized actions, supplier-data review prompts, cited resources, and a downloadable report.</p>
+      <p><a href="https://github.com/emilyou561-beep/michigan-dining-sustainability-showcase"><b>View case study →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -86,10 +86,10 @@ Most of what I've done so far is product and marketing analytics: reading A/B te
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>Michigan Dining Sustainability Navigator</h4>
-      <sub>UMich AI Clinic · Product, data, and technical coordination · React, FastAPI, Python</sub>
-      <p>A sustainable-sourcing assessment tool that turns questionnaire responses into transparent scores, prioritized actions, supplier-data review prompts, cited resources, and a downloadable report.</p>
-      <p><a href="https://github.com/emilyou561-beep/michigan-dining-sustainability-showcase"><b>View case study →</b></a></p>
+      <h4>Cookie Cats A/B test</h4>
+      <sub>Practice project · Python, SQL, statsmodels</sub>
+      <p>Public A/B test on 90k mobile game players. Found a small but significant sample-ratio mismatch that's easy to miss, checked that it doesn't change the answer, then showed the later gate cuts day-7 retention by 0.8 points (p = 0.002).</p>
+      <p><a href="https://github.com/emilyou561-beep/cookie-cats-ab-test"><b>View repo →</b></a></p>
     </td>
   </tr>
 </table>
