@@ -87,11 +87,17 @@ If you're here for the ramen keep scolling.
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h4>Cookie Cats A/B test</h4>
       <sub>Practice project · Python, SQL, statsmodels</sub>
       <p>Public A/B test on 90k mobile game players. Found a small but significant sample-ratio mismatch that's easy to miss, checked that it doesn't change the answer, then showed the later gate cuts day-7 retention by 0.8 points (p = 0.002).</p>
       <p><a href="https://github.com/emilyou561-beep/cookie-cats-ab-test"><b>View repo →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🍜</h4>
+      <sub>Personal project · React, TypeScript, Vite</sub>
+      <p>A Showa-retro ramen kitchen. Tell it what's in your fridge and it matches 41 regional Japanese ramen, each with a quick and an authentic route, flags what's missing, and builds a grocery receipt you can edit.</p>
+      <p><a href="https://github.com/emilyou561-beep/your-kitchen"><b>View repo →</b></a></p>
     </td>
   </tr>
 </table>
