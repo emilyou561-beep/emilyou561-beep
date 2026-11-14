@@ -17,6 +17,8 @@ I'm doing my M.S. in Information (Data Analytics) at the University of Michigan.
 
 Most of what I've done so far is product and marketing analytics: reading A/B tests, breaking funnels down by channel, and turning scattered spreadsheets into something a team can actually use.
 
+If you're here for the ramen keep scolling.
+
 ---
 
 ### Background
