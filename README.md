@@ -48,10 +48,10 @@ If you're here for the ramen keep scrolling.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Which bike share stations will run out today?</h4>
-      <sub>Personal project · Python, scikit-learn, GitHub Actions</sub>
-      <p>Every morning it forecasts, for ~320 Philadelphia stations, the chance each one runs out of bikes or e-bikes in each hour, then scores yesterday's forecast against what happened. Among stations that still had bikes at 4 a.m., its top 25 picks ran out 37% of the time vs. 13% for the best simple rule.</p>
-      <p><a href="https://github.com/emilyou561-beep/indego-empty-station-forecast"><b>View repo →</b></a></p>
+      <h4>Philadelphia bike share: demand + daily forecast</h4>
+      <sub>Personal project · DuckDB, SQL, scikit-learn, GitHub Actions, Tableau</sub>
+      <p>H1 2026 trips were up 21.5% and e-bike minutes up 37.2%, but some of that was just new stations, so I separated real demand growth from network expansion. Then I built a model that forecasts every morning which of ~320 stations will run out of bikes or e-bikes, and scores itself the next day. Among stations that still had bikes at 4 a.m., its top 25 picks ran out 37% of the time vs. 13% for the best simple rule.</p>
+      <p><a href="https://github.com/emilyou561-beep/indego-bike-share-analysis"><b>Analysis →</b></a> · <a href="https://github.com/emilyou561-beep/indego-empty-station-forecast"><b>Forecast →</b></a> · <a href="https://public.tableau.com/app/profile/emily.ou2684/viz/IndegoTablet2_17905244322180/Demandisoutpacingnetworkexpansionledbye-bikes"><b>Dashboard →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>abreadout</h4>
@@ -67,24 +67,24 @@ If you're here for the ramen keep scrolling.
       <p>Tested whether starting background checks earlier helps applicants finish. Across 14,982 applicants, completion went from 26.7% to 42.7%, time to finish dropped from 10.2 to 7.1 days, and cost per completion fell from $96 to $70. Job-site traffic gained the most.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>Philadelphia bike share, H1 2026</h4>
-      <sub>Personal project · DuckDB, SQL, GitHub Actions, Tableau</sub>
-      <p>Trips were up 21.5% and e-bike minutes up 37.2%, but some of that was just new stations. I separated real demand growth from network expansion (minutes per station still rose 5.8%) and suggested changes to e-bike capacity and rebalancing. A monthly pipeline rebuilds all 4.9M trips from the raw files.</p>
-      <p><a href="https://github.com/emilyou561-beep/indego-bike-share-analysis"><b>View repo →</b></a> · <a href="https://public.tableau.com/app/profile/emily.ou2684/viz/IndegoTablet2_17905244322180/Demandisoutpacingnetworkexpansionledbye-bikes"><b>Dashboard →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>Trump-linked firms around U.S. elections</h4>
       <sub>Master's thesis · UChicago · R, CRSP, Compustat</sub>
       <p>Do companies with business ties to Trump trade differently when he wins or loses? I ran an event study on 27 linked firms and 36 matched controls across 5, 10, and 20-day windows. In 2024 the 10-day abnormal return gap was 4.25 points (p = 0.021).</p>
       <p><a href="https://github.com/emilyou561-beep/trump-linked-firms-event-study"><b>View repo →</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>Creator Match Intelligence</h4>
       <sub>Personal project · Python, SQL, SQLite, Streamlit</sub>
       <p>Ranks creators and returns a top 5, with the reasons behind each score. Built on a 7-table SQLite model with a 5-part score, eligibility filters, and risk flags. Comes with 16 tests and a Streamlit app.</p>
       <p><a href="https://github.com/emilyou561-beep/creator-match-intelligence"><b>View repo →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Michigan Dining Sustainability Navigator</h4>
+      <sub>UMich AI Clinic · Product, data, and technical coordination · React, FastAPI, Python</sub>
+      <p>A sustainable-sourcing assessment tool that turns questionnaire responses into transparent scores, prioritized actions, supplier-data review prompts, cited resources, and a downloadable report.</p>
+      <p><a href="https://github.com/emilyou561-beep/michigan-dining-sustainability-showcase"><b>View case study →</b></a></p>
     </td>
   </tr>
   <tr>
