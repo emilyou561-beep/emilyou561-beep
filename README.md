@@ -97,7 +97,7 @@ If you're here for the ramen keep scrolling.
       <h4>🍜</h4>
       <sub>Personal project · React, TypeScript, Vite</sub>
       <p>A Showa-retro ramen kitchen. Tell it what's in your fridge and it matches 41 regional Japanese ramen, each with a quick and an authentic route, flags what's missing, and builds a grocery receipt you can edit.</p>
-      <p><a href="https://github.com/emilyou561-beep/your-kitchen"><b>View repo →</b></a></p>
+      <p><a href="https://github.com/emilyou561-beep/your-kitchen"><b>View repo →</b></a> · <a href="https://emilyou561-beep.github.io/your-kitchen/"><b>Live site →</b></a></p>
     </td>
   </tr>
 </table>
