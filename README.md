@@ -48,36 +48,23 @@ If you're here for the ramen keep scrolling.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Trump-linked firms around U.S. elections</h4>
-      <sub>Master's thesis · UChicago · R, CRSP, Compustat</sub>
-      <p>Do companies with business ties to Trump trade differently when he wins or loses? I ran an event study on 27 linked firms and 36 matched controls across 5, 10, and 20-day windows. In 2024 the 10-day abnormal return gap was 4.25 points (p = 0.021).</p>
-      <p><a href="https://github.com/emilyou561-beep/trump-linked-firms-event-study"><b>View repo →</b></a></p>
+      <h4>Which bike share stations will run out today?</h4>
+      <sub>Personal project · Python, scikit-learn, GitHub Actions</sub>
+      <p>Every morning it forecasts, for ~320 Philadelphia stations, the chance each one runs out of bikes or e-bikes in each hour, then scores yesterday's forecast against what happened. Among stations that still had bikes at 4 a.m., its top 25 picks ran out 37% of the time vs. 13% for the best simple rule.</p>
+      <p><a href="https://github.com/emilyou561-beep/indego-empty-station-forecast"><b>View repo →</b></a></p>
     </td>
+    <td width="50%" valign="top">
+      <h4>abreadout</h4>
+      <sub>Python package · NumPy, SciPy, pandas, pytest</sub>
+      <p>The checks I run every time I read an A/B test, in one call: sample ratio mismatch, z and Welch tests, Holm correction, power and sample size, CUPED and bootstrap. 27 tests checked against SciPy and statsmodels. Demo on the <a href="https://github.com/emilyou561-beep/cookie-cats-ab-test">Cookie Cats test</a>.</p>
+      <p><a href="https://github.com/emilyou561-beep/abreadout"><b>View repo →</b></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>Background-check timing A/B test</h4>
       <sub>Internship · Woooly.ai</sub>
       <p>Tested whether starting background checks earlier helps applicants finish. Across 14,982 applicants, completion went from 26.7% to 42.7%, time to finish dropped from 10.2 to 7.1 days, and cost per completion fell from $96 to $70. Job-site traffic gained the most.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Creator Match Intelligence</h4>
-      <sub>Personal project · Python, SQL, SQLite, Streamlit</sub>
-      <p>Ranks creators and returns a top 5, with the reasons behind each score. Built on a 7-table SQLite model with a 5-part score, eligibility filters, and risk flags. Comes with 16 tests and a Streamlit app.</p>
-      <p><a href="https://github.com/emilyou561-beep/creator-match-intelligence"><b>View repo →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Michigan Dining Sustainability Navigator</h4>
-      <sub>UMich AI Clinic · Product, data, and technical coordination · React, FastAPI, Python</sub>
-      <p>A sustainable-sourcing assessment tool that turns questionnaire responses into transparent scores, prioritized actions, supplier-data review prompts, cited resources, and a downloadable report.</p>
-      <p><a href="https://github.com/emilyou561-beep/michigan-dining-sustainability-showcase"><b>View case study →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Creator data cleanup + Power BI dashboard</h4>
-      <sub>Internship · Wefluens · R, Python, Power BI</sub>
-      <p>Merged scattered research into one clean dataset of 6,000+ creator and partner profiles, checked against 9 QA rules. Then built a live dashboard with field-update automations and a review step, used by 40 people on the team.</p>
     </td>
     <td width="50%" valign="top">
       <h4>Philadelphia bike share, H1 2026</h4>
@@ -88,10 +75,23 @@ If you're here for the ramen keep scrolling.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Cookie Cats A/B test</h4>
-      <sub>Practice project · Python, SQL, statsmodels</sub>
-      <p>Public A/B test on 90k mobile game players. Found a small but significant sample-ratio mismatch that's easy to miss, checked that it doesn't change the answer, then showed the later gate cuts day-7 retention by 0.8 points (p = 0.002).</p>
-      <p><a href="https://github.com/emilyou561-beep/cookie-cats-ab-test"><b>View repo →</b></a></p>
+      <h4>Trump-linked firms around U.S. elections</h4>
+      <sub>Master's thesis · UChicago · R, CRSP, Compustat</sub>
+      <p>Do companies with business ties to Trump trade differently when he wins or loses? I ran an event study on 27 linked firms and 36 matched controls across 5, 10, and 20-day windows. In 2024 the 10-day abnormal return gap was 4.25 points (p = 0.021).</p>
+      <p><a href="https://github.com/emilyou561-beep/trump-linked-firms-event-study"><b>View repo →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Creator Match Intelligence</h4>
+      <sub>Personal project · Python, SQL, SQLite, Streamlit</sub>
+      <p>Ranks creators and returns a top 5, with the reasons behind each score. Built on a 7-table SQLite model with a 5-part score, eligibility filters, and risk flags. Comes with 16 tests and a Streamlit app.</p>
+      <p><a href="https://github.com/emilyou561-beep/creator-match-intelligence"><b>View repo →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Creator data cleanup + Power BI dashboard</h4>
+      <sub>Internship · Wefluens · R, Python, Power BI</sub>
+      <p>Merged scattered research into one clean dataset of 6,000+ creator and partner profiles, checked against 9 QA rules. Then built a live dashboard with field-update automations and a review step, used by 40 people on the team.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🍜</h4>
@@ -111,6 +111,7 @@ If you're here for the ramen keep scrolling.
 ![R](https://img.shields.io/badge/R-00274C?style=flat-square&logo=r&logoColor=FFCB05)
 ![pandas](https://img.shields.io/badge/pandas-00274C?style=flat-square&logo=pandas&logoColor=FFCB05)
 ![Jupyter](https://img.shields.io/badge/Jupyter-00274C?style=flat-square&logo=jupyter&logoColor=FFCB05)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-00274C?style=flat-square&logo=scikitlearn&logoColor=FFCB05)
 ![Streamlit](https://img.shields.io/badge/Streamlit-00274C?style=flat-square&logo=streamlit&logoColor=FFCB05)
 ![Tableau](https://img.shields.io/badge/Tableau-00274C?style=flat-square&logo=tableau&logoColor=FFCB05)
 ![Power BI](https://img.shields.io/badge/Power%20BI-00274C?style=flat-square&logo=powerbi&logoColor=FFCB05)
@@ -118,4 +119,4 @@ If you're here for the ramen keep scrolling.
 ![Git](https://img.shields.io/badge/Git-00274C?style=flat-square&logo=git&logoColor=FFCB05)
 ![pytest](https://img.shields.io/badge/pytest-00274C?style=flat-square&logo=pytest&logoColor=FFCB05)
 
-A/B testing · hypothesis testing · event studies · KPI design · data validation
+A/B testing · hypothesis testing · forecasting · event studies · KPI design · data validation
