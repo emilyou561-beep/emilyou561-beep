@@ -81,8 +81,8 @@ If you're here for the ramen keep scrolling.
     </td>
     <td width="50%" valign="top">
       <h4>Philadelphia bike share, H1 2026</h4>
-      <sub>Personal project · Tableau, pandas</sub>
-      <p>Trips were up 21.5% and e-bike minutes up 37.2%, but some of that was just new stations. I split seasonal growth from network expansion and suggested changes to e-bike capacity and rebalancing.</p>
+      <sub>Personal project · DuckDB, SQL, GitHub Actions, Tableau</sub>
+      <p>Trips were up 21.5% and e-bike minutes up 37.2%, but some of that was just new stations. I separated real demand growth from network expansion (minutes per station still rose 5.8%) and suggested changes to e-bike capacity and rebalancing. A monthly pipeline rebuilds all 4.9M trips from the raw files.</p>
       <p><a href="https://github.com/emilyou561-beep/indego-bike-share-analysis"><b>View repo →</b></a> · <a href="https://public.tableau.com/app/profile/emily.ou2684/viz/IndegoTablet2_17905244322180/Demandisoutpacingnetworkexpansionledbye-bikes"><b>Dashboard →</b></a></p>
     </td>
   </tr>
