@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-emilyou561%40gmail.com-00274C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilyou561@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emily--ou-FFCB05?style=for-the-badge&logo=linkedin&logoColor=00274C)](https://www.linkedin.com/in/emily-ou-/)
+[![Webpage](https://img.shields.io/badge/Webpage-emilyou561--beep.github.io-00274C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emilyou561-beep.github.io)
 
 </div>
 
